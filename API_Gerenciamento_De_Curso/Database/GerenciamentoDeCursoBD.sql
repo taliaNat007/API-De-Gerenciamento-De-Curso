@@ -1,0 +1,2 @@
+CREATE DATABASE GerenciamentoDeCursoBD;
+USE GerenciamentoDeCursoBD;
