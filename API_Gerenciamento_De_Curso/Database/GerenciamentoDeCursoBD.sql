@@ -1,2 +1,1 @@
-CREATE DATABASE GerenciamentoDeCursoBD;
-USE GerenciamentoDeCursoBD;
+drop database gerenciamentodecursobd;
